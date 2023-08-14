@@ -1,0 +1,32 @@
+h1 {
+  color: gray;
+}
+.haha {
+  float: ;
+}
+
+.container {
+  width: 100%;
+  height: 200px;
+  background-color: red;
+  display: block;
+}
+
+.detail1 {
+  background-color: black;
+  height: 100%;
+  width: 33%;
+  float: left;
+}
+.detail2 {
+  background-color: gray;
+  height: 100%;
+  width: 33%;
+  float: left;
+}
+.detail3 {
+  background-color: blue;
+  height: 100%;
+  width: 33%;
+  float: left;
+}
